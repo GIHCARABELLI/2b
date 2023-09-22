@@ -1,0 +1,37 @@
+a = float(input("digite um numero"))
+print(f"o número que você digitou foi: {a}")
+b = float(input("digite um numero"))
+print(f"o número que você digitou foi: {b}")
+c = float(input("digite um numero"))
+print(f"o número que você digitou foi: {c}")
+d = float(input("digite um numero"))
+print(f"o número que você digitou foi: {d}")
+e = float(input("digite um numero"))
+print(f"o número que você digitou foi: {e}")
+f = float(input("digite um numero"))
+print(f"o número que você digitou foi: {f}")
+g = float(input("digite um numero"))
+print(f"o número que você digitou foi: {g}")
+h = float(input("digite um numero"))
+print(f"o número que você digitou foi: {h}")
+i = float(input("digite um numero"))
+print(f"o número que você digitou foi: {i}")
+j = float(input("digite um numero"))
+print(f"o número que você digitou foi: {j}")
+
+print(a+b)
+print(c*d)
+print(e/f)
+print(g**h)
+print(i-j)
+
+print("resoluções")
+
+print(f" a soma de {a} + {b} é igual a: {a+b}")
+print(f" o produto de {c} * {d} é igual a: {c*d}")
+print(f" a divisão de {e} / {f} é igual a: {e/f}")
+print(f" a potência de {g} ** {h} é igual a: {g**h}")
+print(f" o resultado da subtração de {i} - {j} é igual a: {i-j}")
+
+
+
